@@ -1,3 +1,4 @@
+*中文|[English](README.md)*
 # Project Guidoge
 
 *移动设备辅助视觉拓展方案*
