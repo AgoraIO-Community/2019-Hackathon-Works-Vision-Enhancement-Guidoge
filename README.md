@@ -9,7 +9,7 @@
 
 ## 0.Trailer
 
-[! [GUIDOGE VIDEO] (https://s2.ax1x.com/2019/09/29/uGMrVO.png)]] (https://www.bilibili.com/video/av69334959)
+[! [GUIDOGE VIDEO](https://s2.ax1x.com/2019/09/29/uGMrVO.png)]](https://www.bilibili.com/video/av69334959)
 
 👆 Click the picture above to play Kelu's 1min promotional video!
 
