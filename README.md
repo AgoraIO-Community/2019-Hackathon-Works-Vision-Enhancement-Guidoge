@@ -1,3 +1,4 @@
+*English|[中文](README.ZH.md)*
 # Project Guidoge
 
 * Mobile device assisted visual extension Exhibition Scheme *
