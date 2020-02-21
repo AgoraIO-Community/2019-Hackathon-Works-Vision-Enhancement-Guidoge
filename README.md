@@ -9,7 +9,7 @@
 
 ## 0.Trailer
 
-[! [GUIDOGE VIDEO](https://s2.ax1x.com/2019/09/29/uGMrVO.png)]](https://www.bilibili.com/video/av69334959)
+[![GUIDOGE VIDEO](https://s2.ax1x.com/2019/09/29/uGMrVO.png)](https://www.bilibili.com/video/av69334959)
 
 👆 Click the picture above to play Kelu's 1min promotional video!
 
@@ -110,7 +110,7 @@ You need a server on the public network with https enabled, and the Agora Web SD
 
 ## Special Thanks
 
-[! [AGORA.IO] (https://www.agora.io/en/wp-content/uploads/2019/06/agoralightblue-1.png)] (https://www.agora.io/)
+[![AGORA.IO](https://www.agora.io/en/wp-content/uploads/2019/06/agoralightblue-1.png)](https://www.agora.io/)
 
 ## Reference
 
